@@ -1,13 +1,13 @@
-package com.geliyang.springbootmybatismysql;
+package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootMyBatisMySqlApplication {
+public class DemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootMyBatisMySqlApplication.class, args);
+		SpringApplication.run(DemoApplication.class, args);
 	}
 
 }
